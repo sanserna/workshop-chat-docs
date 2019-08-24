@@ -14,3 +14,5 @@ Los participantes de este taller trabajarán con [GraphQl](https://graphql.org) 
 4. [Crear y configurar el proyecto](Chapter_04.md).
 5. [Crear el UI de la aplicación](Chapter_05.md).
 6. [Simulando un Store por medio del React Context API](Chapter_06.md).
+7. [Actualizar la aplicación para uso del StoreContext](Chapter_07.md).
+8. [Conectar ApolloClient](Chapter_08.md).
