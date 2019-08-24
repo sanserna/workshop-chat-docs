@@ -23,7 +23,7 @@ Ahora podemos cambiar el nombre del archivo `src/App.css` a `src/App.scss/`, adi
 
 EsLint es una herramienta que nos permite identificar errores en nuestro código, se puede configurar dependiendo del tipo de aplicación en la que se este trabajando, en nuestro caso, vamos a configurarlo para poder trabajar con ReactJS en optimas condiciones.
 
-### Instalar las dependencias necesarias
+## Instalar las dependencias necesarias
 
 ```bash
 npm install --save babel-eslint eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks

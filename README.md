@@ -16,3 +16,4 @@ Los participantes de este taller trabajarán con [GraphQl](https://graphql.org) 
 6. [Simulando un Store por medio del React Context API](Chapter_06.md).
 7. [Actualizar la aplicación para uso del StoreContext](Chapter_07.md).
 8. [Conectar ApolloClient](Chapter_08.md).
+9. [Cargar lista de mensajes](Chapter_09.md).
