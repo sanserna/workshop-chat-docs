@@ -1,6 +1,6 @@
 # Actualizar mensajes en tiempo real
 
-[capitulo anterior](Chapter_10.md) <----> [capitulo siguiente](Chapter_12.md) | [inicio](README.md)
+[capítulo anterior](Chapter_10.md) | [inicio](README.md)
 
 Finalmente lo único que esta pendiente es actualizar la lista de mensajes sin necesidad de refrescar el navegador, para esto haremos uso de las **suscripciones**, las cuales permiten mantener un canal abierto con el servidor de GraphQl para estar atento a mensajes nuevos y de esa forma efectuar actualizaciones sobre el UI.
 
@@ -69,4 +69,4 @@ function ChatBody() {
 }
 ```
 
-[capitulo anterior](Chapter_10.md) <----> [capitulo siguiente](Chapter_12.md) | [inicio](README.md)
+[capítulo anterior](Chapter_10.md) | [inicio](README.md)

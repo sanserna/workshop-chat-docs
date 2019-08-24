@@ -1,6 +1,6 @@
 # Cargar lista de mensajes
 
-[capitulo anterior](Chapter_08.md) <----> [capitulo siguiente](Chapter_10.md) | [inicio](README.md)
+[capítulo anterior](Chapter_08.md) <----> [capítulo siguiente](Chapter_10.md) | [inicio](README.md)
 
 Un vez tenemos conectado nuestro servidor de GraphQl, podemos empezar a ejecutar queries para obtener los datos que necesitamos, seguiremos haciendo uso de React Hooks, pero esta vez con los hooks propios de Apollo.
 

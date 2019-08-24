@@ -1,6 +1,6 @@
 # Conectar ApolloClient
 
-[capitulo anterior](Chapter_07.md) <----> [capitulo siguiente](Chapter_09.md) | [inicio](README.md)
+[capítulo anterior](Chapter_07.md) <----> [capítulo siguiente](Chapter_09.md) | [inicio](README.md)
 
 Como se menciono en un principio, haremos uso de la librería [ApolloClient](https://www.apollographql.com/docs/react/) para poder conectarnos con el API de GraphQl, existen algunas otras librerías que hacen el trabajo mucho mas fácil al momento de usar Apollo, como por ejemplo [apollo-boost](https://github.com/apollographql/apollo-client/tree/master/packages/apollo-boost), pero el objetivo de este taller es poder entender un poco mas a fondo lo necesario para conectar un servidor de GraphQl.
 
@@ -70,4 +70,4 @@ ReactDOM.render(
 );
 ```
 
-[capitulo anterior](Chapter_07.md) <----> [capitulo siguiente](Chapter_09.md) | [inicio](README.md)
+[capítulo anterior](Chapter_07.md) <----> [capítulo siguiente](Chapter_09.md) | [inicio](README.md)

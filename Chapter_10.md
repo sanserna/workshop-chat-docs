@@ -1,6 +1,6 @@
 # Crear un nuevo mensaje
 
-[capitulo anterior](Chapter_09.md) <----> [capitulo siguiente](Chapter_11.md) | [inicio](README.md)
+[capítulo anterior](Chapter_09.md) <----> [capítulo siguiente](Chapter_11.md) | [inicio](README.md)
 
 Ahora que ya estamos cargando la lista de mensajes, es hora de hacer uso de las mutaciones de GraphQl para crear nuevos mensajes, para esto vamos a actualizar el componente `MessageInput`.
 
@@ -56,4 +56,4 @@ function MessageInput() {
 
 Ahora estamos haciendo uso del hook `useMutation`, el cual nos devuelve un método con el nombre del **type mutation** que se declaro previamente, al ejecutar el método `sendMessage`, se envía como parámetro un objeto que contiene el _key_ variables, en donde vamos a agregar los datos necesarios para crear el mensaje.
 
-[capitulo anterior](Chapter_09.md) <----> [capitulo siguiente](Chapter_11.md) | [inicio](README.md)
+[capítulo anterior](Chapter_09.md) <----> [capítulo siguiente](Chapter_11.md) | [inicio](README.md)

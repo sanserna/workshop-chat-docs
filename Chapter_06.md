@@ -1,8 +1,8 @@
 # Simulando un Store por medio del React Context API
 
-[capitulo anterior](Chapter_05.md) <----> [capitulo siguiente](Chapter_07.md) | [inicio](README.md)
+[capítulo anterior](Chapter_05.md) <----> [capítulo siguiente](Chapter_07.md) | [inicio](README.md)
 
-El concepto de **Store** es muy popular cuando hablamos de "Single Page Applications" (SPA), el objetivo de este patrón, es centralizar el "estado" de nuestra aplicación en un solo lugar, así como también el modelo de datos. En ReactJS existe una librería muy famosa llamada [Redux](http://redux.js.org), la cual nos permite conectar nuestros componentes con un "estado" centralizado, es una librería muy poderosa, las desventajas que tiene es que puede llegar a ser un poco difícil de aprender, especialmente para desarrolladores principiantes.
+El concepto de **Store** es muy popular cuando hablamos de "Single Page Applications" (SPA), el objetivo de este patrón, es centralizar el "estado" de nuestra aplicación en un solo lugar, así como también el modelo de datos. En ReactJS existe una librería muy famosa llamada [Redux](http://redux.js.org), la cual nos permite conectar nuestros componentes con un "estado" centralizado, es una librería muy poderosa, la desventaja que tiene es que puede llegar a ser un poco difícil de aprender, especialmente para desarrolladores principiantes.
 
 ReactJS en una de sus mas recientes versiones introdujo el [Context API](https://reactjs.org/docs/context.html), el cual esta diseñado para compartir datos que pueden considerarse "globales" para un árbol de componentes en React como su propia documentación lo dice, una misma aplicación puede tener múltiples "Contextos" cada uno con una responsabilidad especifica, puede existir un contexto que se encargue de controlar los datos y el estado de autenticación del usuario, puede existir otro contexto encargado de controlar la apariencia de la aplicación, puede haber un contexto que se encargue de controlar el estado interno de un componente y la forma en la que interactúan sus componentes descendientes entre ellos, las posibilidades son muchas.
 
@@ -81,4 +81,4 @@ ReactDOM.render(
 );
 ```
 
-[capitulo anterior](Chapter_05.md) <----> [capitulo siguiente](Chapter_07.md) | [inicio](README.md)
+[capítulo anterior](Chapter_05.md) <----> [capítulo siguiente](Chapter_07.md) | [inicio](README.md)

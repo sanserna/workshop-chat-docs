@@ -1,6 +1,6 @@
 # API de GraphQl que usaremos en nuestra aplicación
 
-[capitulo anterior](Chapter_01.md) <----> [capitulo siguiente](Chapter_03.md) | [inicio](README.md)
+[capítulo anterior](Chapter_01.md) <----> [capítulo siguiente](Chapter_03.md) | [inicio](README.md)
 
 La intención de este curso es cubrir conceptos básicos de GraphQl de lado del cliente, a continuación daremos un breve introducción a el API de GraphQl que estaremos usando para poder conectar nuestro front-end, así como también veremos los fundamentos principales que componen una aplicación con GraphQl.
 
@@ -120,4 +120,4 @@ type Subscription {
 
 En el siguiente [link](https://github.com/sanserna/graphql-chat-server) se encuentra el repositorio con la implementación del API de GraphQl con el que vamos a conectar nuestra aplicación.
 
-[capitulo anterior](Chapter_01.md) <----> [capitulo siguiente](Chapter_03.md) | [inicio](README.md)
+[capítulo anterior](Chapter_01.md) <----> [capítulo siguiente](Chapter_03.md) | [inicio](README.md)

@@ -1,10 +1,10 @@
 # Crear el UI de la aplicación
 
-[capitulo anterior](Chapter_04.md) <----> [capitulo siguiente](Chapter_06.md) | [inicio](README.md)
+[capítulo anterior](Chapter_04.md) <----> [capítulo siguiente](Chapter_06.md) | [inicio](README.md)
 
 Ahora vamos a empezar a crear la interfaz de nuestra aplicación, considero que es buena practica dejar listo todo lo relacionado a la parte visual antes de de conectarnos con el API de GraphQl.
 
-Se debe tener un buen entendimiento de cuales van a ser aquellos componentes que va a permitir a el usuario interactuar con nuestra aplicación, ya que entre mas modulares y genéricos sean nuestros componentes, mas fácil será escalar y mantener nuestra aplicación.
+Se debe tener un buen entendimiento de cuales van a ser aquellos componentes que va a permitir a el usuario interactuar con nuestra aplicación, ya que entre más modulares y genéricos sean nuestros componentes, más fácil será escalar y mantener nuestra aplicación.
 
 > **Importante**: Para agregar estilos a los componentes, es necesario hacer uso de las variables de SASS que se encuentran en nuestro sistema de diseño.
 
@@ -48,4 +48,4 @@ Este componente nos va a permitir ingresar un nombre de usuario o nickname con e
 
 Una vez finalicemos la creación de nuestra interfaz, estamos listos para empezar a agregar interactividad a nuestra aplicación.
 
-[capitulo anterior](Chapter_04.md) <----> [capitulo siguiente](Chapter_06.md) | [inicio](README.md)
+[capítulo anterior](Chapter_04.md) <----> [capítulo siguiente](Chapter_06.md) | [inicio](README.md)

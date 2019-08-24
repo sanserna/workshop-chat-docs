@@ -1,6 +1,6 @@
 # Descripción de la aplicación
 
-[capitulo anterior](README.md) <----> [capitulo siguiente](Chapter_02.md) | [inicio](README.md)
+[capítulo siguiente](Chapter_02.md) | [inicio](README.md)
 
 Vamos a estar desarrollando un pequeño chat en tiempo real haciendo uso de [GraphQl](https://graphql.org) junto con [ApolloClient](https://www.apollographql.com/docs/react/) y adicionalmente usaremos [ReactJS](https://es.reactjs.org) para la implementación del UI.
 
@@ -22,4 +22,4 @@ Después de esto, cada persona tendrá la posibilidad de agregar funcionalidades
 
 pendiente...
 
-[capitulo anterior](README.md) <----> [capitulo siguiente](Chapter_02.md) | [inicio](README.md)
+[capítulo siguiente](Chapter_02.md) | [inicio](README.md)

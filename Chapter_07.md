@@ -1,6 +1,6 @@
 # Actualizar la aplicación para uso del StoreContext
 
-[capitulo anterior](Chapter_06.md) <----> [capitulo siguiente](Chapter_08.md) | [inicio](README.md)
+[capítulo anterior](Chapter_06.md) <----> [capítulo siguiente](Chapter_08.md) | [inicio](README.md)
 
 Ahora vamos a realizar las modificaciones necesarias en nuestra aplicación para poder validar el estado de nuestro usuario, en caso de que no exista ningún usuario activo, mostraremos el componente `UserNameInput`, en caso contrario mostraremos el componente `Chat`.
 
@@ -75,4 +75,4 @@ function Header() {
 }
 ```
 
-[capitulo anterior](Chapter_06.md) <----> [capitulo siguiente](Chapter_08.md) | [inicio](README.md)
+[capítulo anterior](Chapter_06.md) <----> [capítulo siguiente](Chapter_08.md) | [inicio](README.md)

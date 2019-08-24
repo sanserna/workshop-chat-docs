@@ -1,6 +1,6 @@
 # Configuración de nuestro ambiente de desarrollo
 
-[capitulo anterior](Chapter_02.md) <----> [capitulo siguiente](Chapter_04.md) | [inicio](README.md)
+[capítulo anterior](Chapter_02.md) <----> [capítulo siguiente](Chapter_04.md) | [inicio](README.md)
 
 ## Asegurarnos de tener instalado Git
 
@@ -23,4 +23,4 @@ npm -v
 
 Nodejs junto con npm se pueden descargar [aquí](https://nodejs.org/en/download/).
 
-[capitulo anterior](Chapter_02.md) <----> [capitulo siguiente](Chapter_04.md) | [inicio](README.md)
+[capítulo anterior](Chapter_02.md) <----> [capítulo siguiente](Chapter_04.md) | [inicio](README.md)

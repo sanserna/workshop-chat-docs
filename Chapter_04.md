@@ -1,8 +1,8 @@
 # Crear y configurar el proyecto
 
-[capitulo anterior](Chapter_03.md) <----> [capitulo siguiente](Chapter_05.md) | [inicio](README.md)
+[capítulo anterior](Chapter_03.md) <----> [capítulo siguiente](Chapter_05.md) | [inicio](README.md)
 
-Vamos a empezar por crear la estructura básica de nuestro proyecto, en este capitulo, veremos como podemos organizar nuestra aplicación con las mejores practicas.
+Vamos a empezar por crear la estructura básica de nuestro proyecto, en este capítulo, veremos como podemos organizar nuestra aplicación con las mejores practicas.
 
 ## Create React App
 
@@ -75,7 +75,7 @@ La configuración básica que hemos agregado, define que la carpeta `src` es el 
 
 ## Estructura básica de nuestra aplicación
 
-Como se había mencionado anteriormente, la idea es crear un proyecto con las mejores practicas, esto incluye la forma en la que organizamos y estructuramos los archivos dentro de nuestro proyecto, a continuación se muestra la configuración básica para poder empezar a crear nuestra aplicación con ReactJS.
+Como se había mencionado anteriormente, la idea es crear un proyecto con las mejores prácticas, esto incluye la forma en la que organizamos y estructuramos los archivos dentro de nuestro proyecto, a continuación se muestra la configuración básica para poder empezar a crear nuestra aplicación con ReactJS.
 
 ```
 ├── .eslintrc.json
@@ -108,4 +108,4 @@ Como se había mencionado anteriormente, la idea es crear un proyecto con las me
     └── index.js
 ```
 
-[capitulo anterior](Chapter_03.md) <----> [capitulo siguiente](Chapter_05.md) | [inicio](README.md)
+[capítulo anterior](Chapter_03.md) <----> [capítulo siguiente](Chapter_05.md) | [inicio](README.md)
