@@ -1,8 +1,8 @@
 # Crear y configurar el proyecto
 
-Vamos a empezar por crear la estructura básica de nuestro proyecto, en este capitulo, veremos como podemos organizar nuestra aplicación con las mejores practicas.
-
 [capitulo anterior](Chapter_03.md) <----> [capitulo siguiente](Chapter_05.md) | [inicio](README.md)
+
+Vamos a empezar por crear la estructura básica de nuestro proyecto, en este capitulo, veremos como podemos organizar nuestra aplicación con las mejores practicas.
 
 ## Create React App
 
