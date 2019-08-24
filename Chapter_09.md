@@ -4,7 +4,7 @@
 
 Un vez tenemos conectado nuestro servidor de GraphQl, podemos empezar a ejecutar queries para obtener los datos que necesitamos, seguiremos haciendo uso de React Hooks, pero esta vez con los hooks propios de Apollo.
 
-Lo primero que vamos a hacer, es declarar el **query** con el cual vamos a obtener la lista de chats, para esto vamos a ir al componente `ChatBody.jsx` y agregar lo siguiente:
+Lo primero que vamos a hacer, es declarar el **query** con el cual vamos a obtener la lista de chats, para esto vamos a ir al componente `ChatBody` y agregar lo siguiente:
 
 ```javascript
 const GET_CHATS = gql`

@@ -17,3 +17,4 @@ Los participantes de este taller trabajarán con [GraphQl](https://graphql.org) 
 7. [Actualizar la aplicación para uso del StoreContext](Chapter_07.md).
 8. [Conectar ApolloClient](Chapter_08.md).
 9. [Cargar lista de mensajes](Chapter_09.md).
+10. [Crear un nuevo mensaje](Chapter_10.md).

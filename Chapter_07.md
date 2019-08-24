@@ -4,7 +4,7 @@
 
 Ahora vamos a realizar las modificaciones necesarias en nuestra aplicación para poder validar el estado de nuestro usuario, en caso de que no exista ningún usuario activo, mostraremos el componente `UserNameInput`, en caso contrario mostraremos el componente `Chat`.
 
-Vamos a actualizar el componente `App.jsx` de la siguiente manera:
+Vamos a actualizar el componente `App` de la siguiente manera:
 
 ```javascript
 function App() {
@@ -60,7 +60,7 @@ function UserNameInput() {
 
 El React Hook `useContext` adicionalmente nos entrega una propiedad llamada **dispatch**, la segunda propiedad declarada dentro del `value` del StoreProvider, la cual nos permite disparar acciones que desencadenan los cambios en el estado, en este caso la acción que permite actualizar los datos del usuario dentro del **state** con los que capturamos por medio de la interfaz.
 
-Finalmente vamos a actualizar el componente `Chat/Heade.jsx` para que muestre el nombre ingresado por el usuario.
+Finalmente vamos a actualizar el componente `Chat/Header` para que muestre el nombre ingresado por el usuario.
 
 ```javascript
 function Header() {
