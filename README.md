@@ -18,3 +18,4 @@ Los participantes de este taller trabajarán con [GraphQl](https://graphql.org) 
 8. [Conectar ApolloClient](Chapter_08.md).
 9. [Cargar lista de mensajes](Chapter_09.md).
 10. [Crear un nuevo mensaje](Chapter_10.md).
+11. [Actualizar mensajes en tiempo real](Chapter_11.md).
