@@ -16,7 +16,7 @@ De acuerdo a la [documentación](https://redux.js.org/introduction/three-princip
 
 ## Como crear el Store
 
-Lo primero que tenemos que hacer, es crear un nuevo archivo llamado `Store.js` en la raíz de nuestra carpeta `src`, acá vamos a hacer uso del React Context API para crear un componente padre que le dará acceso a sus componentes descendientes a la data que contiene.
+Lo primero que tenemos que hacer, es crear un nuevo archivo llamado `Store.jsx` en la raíz de nuestra carpeta `src`, acá vamos a hacer uso del React Context API para crear un componente padre que le dará acceso a sus componentes descendientes a la data que contiene.
 
 ```javascript
 import React from "react";
@@ -34,7 +34,7 @@ export function StoreProvider({ children }) {}
 
 Y esto es todo lo que necesitamos, el React Context API es bastante sencillo de implementar y entender.
 
-En nuestra aplicación haremos uso de este **StoreContext** para almacenar los datos del usuario que ingresa a la sala de chat y así poder tomar acciones en nuestro componentes en base a esto.
+En nuestra aplicación haremos uso de este **StoreContext** para almacenar los datos del usuario que ingresa a la sala de chat y así poder tomar acciones en nuestros componentes en base a esto.
 
 A continuación vamos a ver como podemos implementar un flujo que nos permita actualizar los datos del usuario dentro del **store**.
 

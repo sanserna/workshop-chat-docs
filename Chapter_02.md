@@ -15,7 +15,7 @@ GraphQL es un lenguaje de consultas, el cual tiene como objetivo ofrecer a los c
 
 ## GraphQl vs REST
 
-- GraphQl tiene un único endpoint, y las peticiones siempre son de tipo POST (algunas veces GET).
+- GraphQl tiene un único endpoint y las peticiones siempre son de tipo POST (algunas veces GET).
 - En REST, la forma y el tamaño de los datos esta determinada por el servidor, con GraphQl esta determinada por la consulta (query).
 - En REST es necesario hacer múltiples peticiones al servidor para obtener datos relacionados, con GraphQl se puede tener un recurso de entrada y obtener todas sus relaciones en una sola petición.
 - En REST, una petición ejecuta un único controlador dentro del servidor, con GraphQl una petición puede ejecutar múltiples resolvers.
@@ -76,7 +76,7 @@ mutation SendMessage($message: String!, $from: ID!, $fromName: String!) {
 }
 ```
 
-Como podemos ver en el ejemplo, esta mutación nos permite crear un nuevo mensaje, enviando como parámetros los datos necesarios para crearlo, las mutaciones siempre devuelven algo, en este caso un `Chat`, por lo cual tenemos que definir que datos queremos obtener al efectuar la mutación.
+Como podemos ver en el ejemplo, esta mutación nos permite crear un nuevo mensaje, enviando como parámetros los datos necesarios para crearlo, las mutaciones siempre devuelven algo, en este caso un `Chat`, por lo cual tenemos que definir que datos queremos obtener del chat al efectuar la mutación.
 
 ### Subscription
 
@@ -91,7 +91,7 @@ subscription OnMessage {
 }
 ```
 
-Con esta suscripción podemos enterarnos, por ejemplo, de cuando algún usuario crea un nuevo mensaje dentro del chat, adicionalmente estamos especificando que queremos obtener las `id` y `fromName` del mensaje que disparo la acción.
+Con esta suscripción podemos enterarnos, por ejemplo, de cuando algún usuario crea un nuevo mensaje dentro del chat, adicionalmente estamos especificando que queremos obtener el `id` y `fromName` del mensaje que disparo la acción.
 
 ### Schema
 

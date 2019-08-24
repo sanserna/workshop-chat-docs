@@ -19,7 +19,7 @@ function App() {
 }
 ```
 
-El React Hook `useContext` nos permite suscribir un componente a el estado de cierto contexto, en este caso, a el StoreContext, el hook retorna la propiedad **state**, la cual habíamos declarado en el `value` del StoreProvider y contiene los datos del store, en caso de que se efectúe una actualización sobre el estado del contexto, el componente se actualizara.
+El React Hook `useContext` nos permite suscribir un componente a el estado de cierto contexto, en este caso, a el StoreContext, el hook retorna la propiedad **state**, la cual habíamos declarado en el `value` del StoreProvider y contiene los datos del store, en caso de que se efectúe una actualización sobre el estado del contexto, el componente se `App` actualizara.
 
 Vamos a actualizar el componente `UserNameInput` de la siguiente manera:
 

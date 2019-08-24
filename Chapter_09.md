@@ -48,3 +48,5 @@ function ChatBody() {
 ```
 
 El hook `useQuery` nos permite lanzar la petición a nuestro servidor de GraphQl para ejecutar el **query** y obtener los datos solicitados de vuelta, adicionalmente nos permite validar el estado de la petición por medio de la propiedad `loading` la cual podremos usar para renderizar los componentes de forma condicional.
+
+[capítulo anterior](Chapter_08.md) <----> [capítulo siguiente](Chapter_10.md) | [inicio](README.md)

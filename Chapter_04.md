@@ -14,10 +14,10 @@ cd workshop-chat
 ## Configurar nuestra aplicación para poder hacer uso de SASS y SASS modules
 
 ```bash
-npm install node-sass --save
+npm install --save-dev node-sass
 ```
 
-Ahora podemos cambiar el nombre del archivo `src/App.css` a `src/App.scss/`, adicionalmente es necesario actualizar el archivo `src/App.js` para que importe el archivo `src/App.scss/`.
+Ahora podemos cambiar el nombre del archivo `src/App.css` a `src/App.scss`, adicionalmente es necesario actualizar el archivo `src/App.js` para que importe el archivo `src/App.scss`.
 
 ## Configurar esLint
 
@@ -26,7 +26,7 @@ EsLint es una herramienta que nos permite identificar errores en nuestro código
 ## Instalar las dependencias necesarias
 
 ```bash
-npm install --save babel-eslint eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
+npm install --save-dev babel-eslint eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
 ```
 
 Para que nuestro linter funcione correctamente, vamos a crear un archivo llamado `.eslintrc.json` en la raíz de nuestro proyecto, este es el archivo de configuración de esLint, en donde vamos a agregar lo necesario para que funcione de forma correcta en una aplicación con ReactJS.
@@ -60,7 +60,7 @@ Para que nuestro linter funcione correctamente, vamos a crear un archivo llamado
 
 ## Configurando nuestro entorno para trabajar con JavaScript
 
-En la raíz de nuestro proyecto, vamos a crear un archivo llamado `jsconfig.json`, la presencia de este archivo en un directorio, indica que el directorio es la raíz de un proyecto que trabaja con JavaScrip.
+En la raíz de nuestro proyecto, vamos a crear un archivo llamado `jsconfig.json`, la presencia de este archivo en un directorio, indica que el directorio es la raíz de un proyecto que trabaja con JavaScript.
 
 ```json
 {
